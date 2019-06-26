@@ -1,1 +1,2 @@
 Hello world of GIT
+print("Hello world!")
